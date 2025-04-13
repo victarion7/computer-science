@@ -24,7 +24,7 @@ This course has been developed by the CS50 team at Harvard University.
 
 ### Course Materials
 
-0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) ✅
+0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) 
 1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) — [Notes](https://cs50.harvard.edu/python/2022/notes/1/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/)
 2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) — [Notes](https://cs50.harvard.edu/python/2022/notes/2/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/)
 3. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) — [Notes](https://cs50.harvard.edu/python/2022/notes/3/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/)
@@ -56,7 +56,7 @@ This course has been created by Professor Charles Severance from the University 
 
 ### Course Materials
 
-1. [Installing Python](https://www.py4e.com/lessons/install) ✅
+1. [Installing Python](https://www.py4e.com/lessons/install) 
 2. [Why Program?](https://www.py4e.com/lessons/intro)
 3. [Variables, expressions and statements](https://www.py4e.com/lessons/memory)
 4. [Conditional Execution](https://www.py4e.com/lessons/logic)
@@ -73,6 +73,8 @@ This course has been created by Professor Charles Severance from the University 
 15. [Object-Oriented Programming](https://www.py4e.com/lessons/Objects) (Optional)
 16. [Databases](https://www.py4e.com/lessons/database) (Optional)
 17. [Data Visualization](https://www.py4e.com/lessons/dataviz) (Optional)
+
+* Put ✅ next to the stuff you've completed as you complete it.
 
 ### Fixes
 
